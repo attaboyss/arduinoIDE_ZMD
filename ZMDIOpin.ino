@@ -18,17 +18,6 @@ int D3f=3;//端口D3辅助IO引脚
 int D4=13;//端口D4主IO引脚
 int D4f=12;//端口D4辅助IO引脚
 int D5=2;//端口D5主IO引脚
-只有少数模块如超声波。数码管模块使用了端口中的主辅IO引脚
-*/
-int D1=6;//端口D1主IO引脚
-int D1f=5;//端口D1辅助IO引脚
-int D2=10;//端口D2主IO引脚
-int D2f=9;//端口D2辅助IO引脚
-int D3=11;//端口D3主IO引脚
-int D3f=3;//端口D3辅助IO引脚
-int D4=13;//端口D4主IO引脚
-int D4f=12;//端口D4辅助IO引脚
-int D5=2;//端口D5主IO引脚
 int D5f=8;//端口D5辅助IO引脚
 int D6=1;//端口D6主IO引脚
 int D6f=0;//端口D6辅助IO引脚
